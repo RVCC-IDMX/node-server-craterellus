@@ -14,7 +14,6 @@
   "keywords": [],
   "author": "Sarah Lopez <sarah.singing.cheese@gmail.com> (https://github.com/craterellus)",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/node-server-craterellus/issues"
   },
